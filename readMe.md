@@ -5,3 +5,5 @@ Eu *não* conhecia este tipo (.md). Até escrevia um ou outro readme de forma in
 
 ## Sempre aprendendo em todas as oportunidades.
 ### Se vc está lendo isso, lembre-se de beber água! Isso realmente é importante!
+
+Oi, eu sou um texto criado para dar conflito! ;D
